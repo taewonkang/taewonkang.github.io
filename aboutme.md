@@ -4,9 +4,9 @@ title: About me
 subtitle: Lemme introduce myself...
 ---
 
-Hi! I'm **Taewon Kang**, born at the last day of 1995, and currently a Ph.D. candidate in [School of Integrated Technology](sit.yonsei.ac.kr), [Yonsei University](yonsei.ac.kr), Korea.
+Hi! I'm **Taewon Kang**, born at the last day of 1995, and currently a Ph.D. candidate in [School of Integrated Technology](https://sit.yonsei.ac.kr), [Yonsei University](https://yonsei.ac.kr), Korea.
 
-I'm a member of [Intellgent Unmanned Systems Lab](gnss.kr), led by [Prof. Jiwon Seo](jwseo.com).
+I'm a member of [Intellgent Unmanned Systems Lab](https://gnss.kr), led by [Prof. Jiwon Seo](https://jwseo.com).
 
 My research interests include _Complementary Positioning, Navigation, and Timing (PNT) Systems_, _Urban & Indoor Navigation_, and _Intelligent Unmanned Systems_.
 
