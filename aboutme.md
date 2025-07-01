@@ -13,6 +13,7 @@ My research interests include _Complementary Positioning, Navigation, and Timing
 ### Education
 
 **M.S./Ph.D.**, School of Integrated Technology, College of Computing, Yonsei University, Korea, 2016-present
+
 **B.S.**, School of Integrated Technology, College of Engineering, Yonsei University, Korea, 2013-2016
 
 ### Publications
