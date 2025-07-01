@@ -54,9 +54,9 @@ H. Lee, **T. Kang**, J. Seo, Safety distance visualization tool for LTE-based UA
 
 #### Domestic Conference Proceedings
 
-T. Kang, J. Seo, Positioning with smartphone magnetic field sensors using indoor magnetic field fingerprinting, _Proceedings of the 2023 KONI Conference_, Seoul, Korea, 2023, pp. 1--3.
+**T. Kang**, J. Seo, Positioning with smartphone magnetic field sensors using indoor magnetic field fingerprinting, _Proceedings of the 2023 KONI Conference_, Seoul, Korea, 2023, pp. 1--3.
 
-S. Lee, T. Kang, J. Seo, Turn detection using smartphone sensors at indoor environment,  _Proceedings of the 2022 KONI Conference_, Seoul, Korea, 2022, pp. 255--258.
+S. Lee, **T. Kang**, J. Seo, Turn detection using smartphone sensors at indoor environment,  _Proceedings of the 2022 KONI Conference_, Seoul, Korea, 2022, pp. 255--258.
 
 S.-H. Park, **T. Kang**, J. Seo, RSSI-based location estimation of an indoor transmitter using convolutional neural network, _Proceedings of the KICS Winter Conference 2022_, Pyeonchang, Korea, 2022, pp. 1224--1225.
 
