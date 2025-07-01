@@ -10,6 +10,8 @@ I'm a member of [Intellgent Unmanned Systems Lab](gnss.kr), led by [Prof. Jiwon 
 
 My research interests include _Complementary Positioning, Navigation, and Timing (PNT) Systems_, _Urban & Indoor Navigation_, and _Intelligent Unmanned Systems_.
 
+**E-mail is the best way to reach me!** [taewonelove77@gmail.com](mailto:taewonelove77@gmail.com)
+
 ### Education
 
 **M.S./Ph.D.**, School of Integrated Technology, College of Computing, Yonsei University, Korea, 2016-present
