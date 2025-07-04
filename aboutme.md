@@ -22,7 +22,7 @@ My research interests include _Complementary Positioning, Navigation, and Timing
 
 #### International Journal Articles
 
-* **T.Kang**, S. Park, P.-W. Son, J. Seo, Enhancing eLoran Timing Accuracy via Machine Learning with Meteorological and Terrain Data, _IEEE Access_, [doi:10.1109/ACCESS.2025.3581615](doi.org/10.1109/ACCESS.2025.3581615), in press. 2025.
+* **T.Kang**, S. Park, P.-W. Son, J. Seo, Enhancing eLoran Timing Accuracy via Machine Learning with Meteorological and Terrain Data, _IEEE Access_, 13, 112067--112080, [doi:10.1109/ACCESS.2025.3581615](doi.org/10.1109/ACCESS.2025.3581615), 2025.
 
 * **T. Kang**, J. Seo, Efficient Indoor Search Algorithms for Locating Emergency Callers Without Prior Site Knowledge, _IEEE Access_, submitted.
 
