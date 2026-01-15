@@ -14,9 +14,9 @@ My research interests include _Complementary Positioning, Navigation, and Timing
 
 ### Education
 
-* **M.S./Ph.D.**, School of Integrated Technology, College of Computing, Yonsei University, Korea, 2016-present
+* **M.S./Ph.D.**, School of Integrated Technology, College of Computing, Yonsei University, Korea, 2026
 
-* **B.S.**, School of Integrated Technology, College of Engineering, Yonsei University, Korea, 2013-2016
+* **B.S.**, School of Integrated Technology, College of Engineering, Yonsei University, Korea, 2016
 
 ### Publications
 
@@ -76,7 +76,9 @@ My research interests include _Complementary Positioning, Navigation, and Timing
 
 ### Patents
 
-* J. Seo, **T. Kang**, Apparatus and method for selecting signal for positioning, 10-2323899, Applied on 3 November 2021, Korea.
+* J. Seo, **T. Kang**, C. Kee, B. Park, eLoran propagation delay prediction method and device, 10-2025-0209002, Applied on 24 December 2025, Korea.
+
+* J. Seo, **T. Kang**, Apparatus and method for selecting signal for positioning, 10-2323899, Registered on 3 November 2021, Korea.
 
 ### Awards & Honors
 
