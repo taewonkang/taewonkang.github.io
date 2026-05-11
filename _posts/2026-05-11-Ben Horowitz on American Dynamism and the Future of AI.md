@@ -9,10 +9,11 @@ tags: [podcast, AI]
 author:
 ---
 
-> ⚡️ **TLDR**
-> 1. America's technological dominance stems from its unique system of individual freedom and opportunity, allowing people to contribute and advance humanity, a characteristic essential for global progress in the AI revolution.
-> 2. a16z views its role as the world's largest venture capital firm as helping America win technologically by investing strategically and integrating with government to make technology accessible, reinforcing American dynamism.
-> 3. A key concern for the future of AI in America is the negative public perception, contrasting with higher optimism in countries like China and Japan; shifting focus to AI's positive potential, such as ending traffic deaths or curing cancer, is crucial for progress.
+{: .box-success}
+⚡️ **TLDR**
+1. America's technological dominance stems from its unique system of individual freedom and opportunity, allowing people to contribute and advance humanity, a characteristic essential for global progress in the AI revolution.
+2. a16z views its role as the world's largest venture capital firm as helping America win technologically by investing strategically and integrating with government to make technology accessible, reinforcing American dynamism.
+3. A key concern for the future of AI in America is the negative public perception, contrasting with higher optimism in countries like China and Japan; shifting focus to AI's positive potential, such as ending traffic deaths or curing cancer, is crucial for progress.
 
 There's a significant disparity in optimism regarding AI between China and America, with over 70% of Chinese people expressing optimism compared to less than 30% in the U.S. This comes at a crucial time as America has made its largest historical bet on winning the next century of technology, aiming to replicate its success from the industrial revolution.
 
@@ -80,3 +81,4 @@ Despite a general optimism within a16z about the future, the biggest concern is 
 
 The public discourse in America often focuses on the dangers of AI, neglecting its immense positive potential. AI promises to revolutionize society by ending traffic deaths, curing cancer, and eradicating poverty. While acknowledging potential negatives, these can be managed, just as humanity has managed the risks of every technology since fire. Shifting the narrative to embrace the profoundly positive applications of AI is crucial for its future success and societal benefit.
 
+> This article is a summary of [The a16z Show in 05/11/2026](https://www.youtube.com/watch?v=X9k53P-2SOg)
