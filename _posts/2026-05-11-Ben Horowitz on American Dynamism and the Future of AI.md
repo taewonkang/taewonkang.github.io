@@ -3,7 +3,7 @@ layout: post
 title: Ben Horowitz on American Dynamism and the Future of AI
 subtitle: The a16z Show
 tags: [podcast, AI]
-author:
+social-share: false
 ---
 
 {: .box-success}
