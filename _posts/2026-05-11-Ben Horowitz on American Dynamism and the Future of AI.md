@@ -2,9 +2,6 @@
 layout: post
 title: Ben Horowitz on American Dynamism and the Future of AI
 subtitle: The a16z Show
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [podcast, AI]
 author:
 ---
@@ -81,4 +78,4 @@ Despite a general optimism within a16z about the future, the biggest concern is 
 
 The public discourse in America often focuses on the dangers of AI, neglecting its immense positive potential. AI promises to revolutionize society by ending traffic deaths, curing cancer, and eradicating poverty. While acknowledging potential negatives, these can be managed, just as humanity has managed the risks of every technology since fire. Shifting the narrative to embrace the profoundly positive applications of AI is crucial for its future success and societal benefit.
 
-> This article is a summary of [The a16z Show in 05/11/2026](https://www.youtube.com/watch?v=X9k53P-2SOg)
+> This article is a summary of [The a16z Show uploaded in 05/11/2026](https://www.youtube.com/watch?v=X9k53P-2SOg)
